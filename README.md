@@ -2,7 +2,9 @@ ReadMe File
 # Meal Suggestion App
 
 This is a small Android APP I made for my school project.
- 
+ ![Screenshot 2025-04-04 230533](https://github.com/user-attachments/assets/6f427dba-d7b5-4188-8560-6ed3174ac5e4)
+ ![Screenshot 2025-04-04 230705](https://github.com/user-attachments/assets/81daace1-5d26-4879-aeff-d33843bca21e)
+
 
 This app calculates total expenses from four input fields, compares them to income and shows colour based on the feedback and shows error messages.
 
