@@ -1,5 +1,5 @@
 ReadMe File
-# Meal Suggestion App
+# Budget Tracker APP
 
 This is a small Android APP I made for my school project.
  ![Screenshot 2025-04-04 230533](https://github.com/user-attachments/assets/6f427dba-d7b5-4188-8560-6ed3174ac5e4)
