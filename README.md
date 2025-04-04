@@ -1,4 +1,3 @@
-ReadMe File
 # Budget Tracker APP
 
 This is a small Android APP I made for my school project.
